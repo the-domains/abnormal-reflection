@@ -1,0 +1,14 @@
+layout_spectrum: 0.8481519650667906
+typography_spectrum: 0.2751012572553009
+color:
+  brandStrength: 0.2991179176606238
+  lightness: 0.898876796476543
+  saturation: 0.6136509941425174
+  rhythmicContrast: 0.3110152583103627
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: abnormal reflection
